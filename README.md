@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Jhoshua Christian A. Shimoyama (Himeru)</h1>
-
 <p align="center">
   <img src="portrait_color.png" alt="ASCII portrait" width="720">
 </p>
