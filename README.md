@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jhoshua Christian A. Shimoyama(also known as Himeru) 👋</h1>
+<h1 align="center">Hi, I'm Jhoshua Christian A. Shimoyama(also known as Himeru) </h1>
 
 ```text
                                              ----
